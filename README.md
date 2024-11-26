@@ -1,2 +1,2 @@
 # exercices_git
-ceci est un conflit
+Test de branch et conflits
