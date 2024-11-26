@@ -1,3 +1,3 @@
 # exercices_git
 Test de branch et conflits
-Conflict solve
+modification depuis la branch testing
