@@ -1,2 +1,2 @@
 # exercices_git
-exercices
+ceci est un conflit
